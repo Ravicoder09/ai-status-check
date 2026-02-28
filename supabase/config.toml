@@ -1,0 +1,4 @@
+project_id = "msfrtrbrhgnxjwmhxrox"
+
+[functions.devsync-chat]
+verify_jwt = false
